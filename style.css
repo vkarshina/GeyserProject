@@ -1,0 +1,17 @@
+.Text{
+    background-color: rgb(224, 224, 224);
+    border-bottom: 5px;
+    text-align: left;
+    position: absolute;
+    margin: 0 auto;
+    display: none;
+}
+
+.Marker{
+    cursor: pointer;
+}
+
+.Label{
+    cursor: pointer;
+    pointer-events: auto; 
+}
